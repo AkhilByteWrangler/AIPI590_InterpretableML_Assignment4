@@ -32,7 +32,7 @@ The objective of this assignment is to demonstrate the use of **interpretable mo
 ### Running the Notebook:
 You can run the notebook in Google Colab by clicking the button below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourGHName/AIPI590_XAI_Assignment4/blob/main/yourFileName.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AkhilByteWrangler/AIPI590_InterpretableML_Assignment4/blob/main/Interpretable_ML_Models_AIPI590.ipynb)
 
 ### Installation Instructions:
 
